@@ -1,3 +1,8 @@
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid white;
+}
+table{
+  background:#fff
+  color:white
+  position:absolute
 }
